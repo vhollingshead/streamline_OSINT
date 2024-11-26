@@ -5,3 +5,6 @@ Despite the large volumes of data available to open source intelligence (OSINT) 
 • *Classification/Obj Detection Models:* ResNet-50, Mask R-CNN, YOLOv5, YOLOv8
 
 • *Generative AI System:* Stable-Diffusion
+
+<img width="1073" alt="image" src="https://github.com/user-attachments/assets/3c39b2c6-338c-4955-b38a-ab21bf0af6bf">
+
