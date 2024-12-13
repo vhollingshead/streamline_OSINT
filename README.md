@@ -6,5 +6,5 @@ Despite the large volume of data available to open source intelligence (OSINT) r
 
 • *Generative AI System:* Stable-Diffusion
 
-<img width="1073" alt="image" src="https://github.com/user-attachments/assets/3c39b2c6-338c-4955-b38a-ab21bf0af6bf">
+<img width="1722" alt="image" src="https://github.com/user-attachments/assets/13887e99-9e82-4d82-a171-65a1e4077e79" />
 
